@@ -1,6 +1,6 @@
 # Devorah (Dev) Gordin 
 
-![A photo of me](DGordinHeadShot.png)
+![A photo of me](https://bleshlab.com/wp-content/uploads/2019/10/dev.jpg)
 
 ## Education
 
